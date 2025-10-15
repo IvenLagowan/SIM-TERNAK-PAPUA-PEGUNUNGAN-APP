@@ -1,12 +1,12 @@
 # SIM-TERNAK-PAPUA-PEGUNUNGAN-APP
 
 <br>
-## Halaman Branda
+# Halaman Branda
 <br>
 <img width="1050" height="588" alt="image" src="https://github.com/user-attachments/assets/023a964f-282f-40b6-8502-cff20ad6dd17" />
 
 <br>
-## Halaman Berita
+# Halaman Berita
 <br>
 <img width="1049" height="588" alt="image" src="https://github.com/user-attachments/assets/fccd60e6-66fd-4cd7-90d8-6bc947450a03" />
 
